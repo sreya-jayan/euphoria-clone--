@@ -26,7 +26,7 @@ function App() {
       <Header />
       <Routes>
       
-        <Route path="//euphoria-clone--"element={
+        <Route path="/euphoria-clone--"element={
             <div>
               <Dresses />
               <Dress />
