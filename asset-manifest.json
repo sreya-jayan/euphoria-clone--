@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/euphoria-clone--/static/css/main.74fa22f1.css",
-    "main.js": "/euphoria-clone--/static/js/main.c24ac537.js",
+    "main.js": "/euphoria-clone--/static/js/main.e29bba2f.js",
     "static/js/488.896c2b03.chunk.js": "/euphoria-clone--/static/js/488.896c2b03.chunk.js",
     "static/media/bg-1.jpg": "/euphoria-clone--/static/media/bg-1.e02b4cac15e37a7f2a00.jpg",
     "static/media/bg-5.jpg": "/euphoria-clone--/static/media/bg-5.3adca2178cf3bc0c0b87.jpg",
@@ -67,11 +67,11 @@
     "static/media/facebook.svg": "/euphoria-clone--/static/media/facebook.ba78e21e1c295caeda10dba71cd102ac.svg",
     "static/media/star.svg": "/euphoria-clone--/static/media/star.e7a87a14af974b347340a37f8351de15.svg",
     "main.74fa22f1.css.map": "/euphoria-clone--/static/css/main.74fa22f1.css.map",
-    "main.c24ac537.js.map": "/euphoria-clone--/static/js/main.c24ac537.js.map",
+    "main.e29bba2f.js.map": "/euphoria-clone--/static/js/main.e29bba2f.js.map",
     "488.896c2b03.chunk.js.map": "/euphoria-clone--/static/js/488.896c2b03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74fa22f1.css",
-    "static/js/main.c24ac537.js"
+    "static/js/main.e29bba2f.js"
   ]
 }
